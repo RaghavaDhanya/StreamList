@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StreamList</string>
+    <string name="title_activity_main">MainActivity</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="empty_list">Nothing to show here</string>
+
+
+
+</resources>
